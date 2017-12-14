@@ -1,6 +1,7 @@
 /* Inicialización en español para la extensión 'UI date picker' para jQuery. */
 /* Traducido por Vester (xvester@gmail.com). */
-/* Adaptado por mi, para copiar esto https://rawgit.com/AlesisZapana/jquery-ui/master/ui/i18n/datepicker-es.js */
+/* Adaptado por mi, para copiar esto usar https://rawgit.com/AlesisZapana/jquery-ui/master/ui/i18n/datepicker-es.js */
+/* o https://cdn.rawgit.com/AlesisZapana/jquery-ui/master/ui/i18n/datepicker-es.js*/
 ( function( factory ) {
 	if ( typeof define === "function" && define.amd ) {
 
