@@ -1,5 +1,6 @@
 /* Inicialización en español para la extensión 'UI date picker' para jQuery. */
 /* Traducido por Vester (xvester@gmail.com). */
+/* Adaptado por mi, para copiar esto https://rawgit.com/AlesisZapana/jquery-ui/master/ui/i18n/datepicker-es.js */
 ( function( factory ) {
 	if ( typeof define === "function" && define.amd ) {
 
@@ -17,16 +18,16 @@ datepicker.regional.es = {
 	prevText: "&#x3C;Ant",
 	nextText: "Sig&#x3E;",
 	currentText: "Hoy",
-	monthNames: [ "enero","febrero","marzo","abril","mayo","junio",
-	"julio","agosto","septiembre","octubre","noviembre","diciembre" ],
-	monthNamesShort: [ "ene","feb","mar","abr","may","jun",
-	"jul","ago","sep","oct","nov","dic" ],
-	dayNames: [ "domingo","lunes","martes","miércoles","jueves","viernes","sábado" ],
-	dayNamesShort: [ "dom","lun","mar","mié","jue","vie","sáb" ],
-	dayNamesMin: [ "D","L","M","X","J","V","S" ],
+	monthNames: [ "Enero","Febrero","Marzo","Abril","Mayo","Junio",
+	"Julio","Agosto","Septiembre","Octubre","Noviembre","Diciembre" ],
+	monthNamesShort: [ "Ene","Feb","Mar","Abr","May","Jun",
+	"Jul","Ago","Sep","Oct","Nov","Dic" ],
+	dayNames: [ "Domingo","Lunes","Martes","Miércoles","Jueves","Viernes","Sábado" ],
+	dayNamesShort: [ "Dom","Lun","Mar","Mié","Jue","Vie","Sáb" ],
+	dayNamesMin: [ "Do","Lu","Ma","Mi","Ju","Vi","Sá" ],
 	weekHeader: "Sm",
 	dateFormat: "dd/mm/yy",
-	firstDay: 1,
+	firstDay: 0,
 	isRTL: false,
 	showMonthAfterYear: false,
 	yearSuffix: "" };
