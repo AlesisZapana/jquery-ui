@@ -29,6 +29,7 @@ datepicker.regional.es = {
 	weekHeader: "Sm",
 	dateFormat: "yy-mm-dd",
 	firstDay: 0,
+	minDate: 0,
 	isRTL: false,
 	showMonthAfterYear: false,
 	yearSuffix: "" };
